@@ -2,6 +2,7 @@
 - 👀 I’m interested in building startups
 - 🌱 I’m currently learning automation testing
 - 📫 How to reach me : alif.972002@gmail.com
+- 💻 Portfolio : https://ameerul-muminin.github.io/portfolio/
 
 <!---
 ameerul-muminin/ameerul-muminin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
