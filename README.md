@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ameerul-muminin
 - 👀 I’m interested in building startups
-- 🌱 I’m currently learning automation testing
+- 🌱 I’m currently learning to build one
 - 📫 How to reach me : alif.972002@gmail.com
 - 💻 Portfolio : https://ameerul-muminin.github.io/portfolio/
 
